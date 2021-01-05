@@ -1,8 +1,4 @@
- # TO DO:
- # make it platform independent
- # do little level_2 tweaks
-
- #!/usr/bin/python3
+#!/usr/bin/python3
 
 import subprocess
 import optparse 
