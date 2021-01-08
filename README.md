@@ -2,7 +2,7 @@
 
 Basic python scripts based for linux OS 
 
-# MAC Changer 
+## MAC Changer 
 Used for changing the mac address of your OS , USE --help for more option.
 
 # Network Scanner 
