@@ -13,6 +13,8 @@ def argument():
 	parser = optparse.OptionParser()
 	parser.add_option("-i", "--ip" , dest="ip_addr", help="Target IP/IP range")
 	(options, arguments) = parser.parse_args()
+	if not options.ip_addr:
+		parser.error("Please specify an ip, use --help for more info")
 	return options.ip_addr
 
 
