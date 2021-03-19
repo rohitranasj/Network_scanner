@@ -1,6 +1,6 @@
 # Project1
 
-Basic python scripts based for linux OS 
+Basic python scripts based on linux OS 
 
 ## MAC Changer 
 Used for changing the mac address of your OS , USE --help for more option.
